@@ -1,0 +1,618 @@
+[
+    {
+      "id": 0,
+      "name": "Honeycrisp Apple",
+      "price": "$1.50",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000003283",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 1,
+      "name": "Kroger® Gala Apples Bag",
+      "price": "$5.49",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0001111091825",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 2,
+      "name": "Large Gala Apple",
+      "price": "$1.00",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000004134",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 3,
+      "name": "Kroger® Honeycrisp Apples",
+      "price": "$7.99",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0001111018189",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 4,
+      "name": "Kroger® Pink Lady® Apples",
+      "price": "$5.49",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0001111014902",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 5,
+      "name": "Large Fuji Apple",
+      "price": "$1.00",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000004131",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 6,
+      "name": "Simple Truth Organic™ Gala Apples Pouch",
+      "price": "$4.99",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0001111069101",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 7,
+      "name": "Large Granny Smith Apple",
+      "price": "$1.00",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000004017",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 8,
+      "name": "Kroger® Fuji Apples Bag",
+      "price": "$5.49",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0001111018188",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 9,
+      "name": "Cosmic Crisp Apples",
+      "price": "$1.50",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000003507",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 10,
+      "name": "Pink Lady Apple",
+      "price": "$1.00",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000004130",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 11,
+      "name": "Simple Truth Organic™ Honeycrisp Apples",
+      "price": "$6.99",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0001111069106",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 12,
+      "name": "Simple Truth Organic™ Pink Lady Apples",
+      "price": "$4.99",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0001111018999",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 13,
+      "name": "Simple Truth Organic™ Fuji Apples Bag",
+      "price": "$4.99",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0001111069102",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 14,
+      "name": "Simple Truth Organic™ Honeycrisp Apples",
+      "price": "$1.71",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000093283",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 15,
+      "name": "Opal Apple",
+      "price": "$1.00",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000003618",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 16,
+      "name": "Simple Truth Organic™ Granny Smith Apples",
+      "price": "$4.99",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0001111069103",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 17,
+      "name": "Sugar Bee Apple",
+      "price": "$1.25",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000003486",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 18,
+      "name": "Simple Truth Organic™ Fuji Apples",
+      "price": "$1.21",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000094131",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 19,
+      "name": "Large Organic Gala Apples",
+      "price": "$1.21",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000094134",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 20,
+      "name": "Simple Truth Organic™ Green Granny Smith Apples",
+      "price": "$1.21",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000094017",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 21,
+      "name": "Envy Apples",
+      "price": "$1.50",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000003616",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 22,
+      "name": "Kroger® Envy Apples",
+      "price": "$7.99",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0001111060179",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 23,
+      "name": "Small Pink Lady Apples",
+      "price": "$1.41",
+      "imgurl": "https://www.kroger.com/product/images/medium/front/0000000004128",
+      "store": "Fred Meyer"
+    },
+    {
+      "id": 0,
+      "name": "Opal Apples, 2 lb bag",
+      "price": "$3.78",
+      "imgurl": "https://i5.walmartimages.com/asr/883ca8a7-e791-4c20-a821-0e1fa36e5eab_1.3d5b1bf2f772e42f705e6a436fade7d1.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 1,
+      "name": "Jazz Apples, 3 lb Bag",
+      "price": "$4.97",
+      "imgurl": "https://i5.walmartimages.com/asr/072b8060-d75c-4d72-8481-e4f0a7941cf4.50a5108d99e18a139e09d6e77147f288.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 2,
+      "name": "Gala Apples, 3 lb Bag",
+      "price": "$4.27",
+      "imgurl": "https://i5.walmartimages.com/asr/1eda1a92-ccfa-49a7-b1f4-275f741dc5ca.d930abbb1cedbead1a97df709c2827d2.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 3,
+      "name": "Honeycrisp Apples, 3 lb Bag",
+      "price": "$6.97",
+      "imgurl": "https://i5.walmartimages.com/asr/7452aacd-ce6c-4a53-a4a8-5dd5caddcd69.18e00a7823753c7e2700abce0fbb3017.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 4,
+      "name": "Honeycrisp Apples, Bulk",
+      "price": "$1.54",
+      "imgurl": "https://i5.walmartimages.com/asr/fdffb720-8b75-43df-bffe-4ffc4e9369d8_3.d4460fa9146eb9716b5804d61d4b26b9.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 5,
+      "name": "Fuji Apples, 3 lb Bag",
+      "price": "$3.97",
+      "imgurl": "https://i5.walmartimages.com/asr/022e2c9a-6ace-43e0-afbc-700a1af7c8ae.3370e09099c9e783a6a4110d0eb2274b.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 6,
+      "name": "Gala Apples, Bulk",
+      "price": "$0.89",
+      "imgurl": "https://i5.walmartimages.com/asr/f46d4fa7-6108-4450-a610-cc95a1ca28c5_3.38c2c5b2f003a0aafa618f3b4dc3cbbd.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 7,
+      "name": "Fuji Apples, Bulk",
+      "price": "$0.94",
+      "imgurl": "https://i5.walmartimages.com/asr/3ec17a04-0333-424f-8076-e2414e013cbd_1.b3e1ec5d2514a86e0492ce1d5d6bb353.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 8,
+      "name": "Granny Smith Apples, 3 lb Bag",
+      "price": "$4.57",
+      "imgurl": "https://i5.walmartimages.com/asr/3ba1a664-0390-4b92-9419-b3839c7e2efd.1fafb29d89548df5d9303fbce74f15ea.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 9,
+      "name": "Granny Smith Apples, Bulk",
+      "price": "$0.88",
+      "imgurl": "https://i5.walmartimages.com/asr/bf2ec88a-2f36-41f2-93d3-c3161772733d_1.cdc913433c6acc6bf9201dc1fa86bac9.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 10,
+      "name": "Envy Apples, Bulk",
+      "price": "$1.18",
+      "imgurl": "https://i5.walmartimages.com/asr/32451a10-0563-426a-9a16-a8865b2c3774_3.b3be01fcc4c956f51fe3890589897d31.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 11,
+      "name": "Red Delicious Apples, Bulk",
+      "price": "$1.00",
+      "imgurl": "https://i5.walmartimages.com/asr/7320e63a-de46-4a16-9b8c-526e15219a12_3.e557c1ad9973e1f76f512b34950243a3.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 12,
+      "name": "Pink Lady Apples, 3lb Bag",
+      "price": "$3.97",
+      "imgurl": "https://i5.walmartimages.com/asr/b607e463-2ea9-422b-84c1-ca6174408d96.e13e9c12865c388d7cfe04fbee9192be.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 13,
+      "name": "Red Delicious Apples, 5 lb Bag",
+      "price": "$5.97",
+      "imgurl": "https://i5.walmartimages.com/asr/683b84ff-ca6a-42cb-b3b8-54b561a4f823.f9a7da38f481b825ef43d9e63c332315.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 14,
+      "name": "Organic Gala Apples, 3 lb Bag",
+      "price": "$5.78",
+      "imgurl": "https://i5.walmartimages.com/asr/06d02b73-3330-44f5-b975-ebc69c31a2fc_3.7bab3881e471006cc9d0c111b579cd1d.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 15,
+      "name": "Cosmic Crisp Apples, Bulk",
+      "price": "$1.06",
+      "imgurl": "https://i5.walmartimages.com/asr/234e79d7-7724-42bd-bc75-ee3fa81b3317.260593367d15f20e85dcda3abb537a01.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 16,
+      "name": "Cosmic Apples 3 Lb Bag",
+      "price": "$5.28",
+      "imgurl": "https://i5.walmartimages.com/asr/58c1243d-980a-4f63-95ff-b027a8799966.597f9b87feb4aec17fbfe0d8b2a6adaa.png?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 17,
+      "name": "Organic Pink Lady Apples, 2 lb Pouch",
+      "price": "$3.96",
+      "imgurl": "https://i5.walmartimages.com/asr/50c17d73-1af8-428b-a7c1-bd38e9a7a5e6_2.d372ec9f8badea0521d799ae333f1e2c.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 18,
+      "name": "Organic Honeycrisp Apples, 2 lb Pouch",
+      "price": "$5.97",
+      "imgurl": "https://i5.walmartimages.com/asr/836de28a-d05d-4522-9c6a-b3382636f47c_2.acac6a8c3a6bd54ba0be931bf39ad6a2.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 19,
+      "name": "Ambrosia Apples, Bulk",
+      "price": "$1.36",
+      "imgurl": "https://i5.walmartimages.com/asr/6ba3d69b-4c3e-4d74-b875-e565b7bab40f_2.4077a6a330f2ce5a08708847a6e011c0.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 20,
+      "name": "Jazz Apples, Bulk",
+      "price": "$0.99",
+      "imgurl": "https://i5.walmartimages.com/asr/8f48c60f-521b-4b8a-bbab-3e18eb7b2eb4_2.38463b3e84cd4c71aaf338c4fac614f0.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 21,
+      "name": "Ambrosia Apples, 3 lb Bag",
+      "price": "$5.47",
+      "imgurl": "https://i5.walmartimages.com/asr/eeab8c7e-ec0c-4a75-82d2-e30211c98eaf.c8dbe1599734c0f6e8d8130b93efb6e2.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 22,
+      "name": "Pink Lady Apple, Bulk",
+      "price": "$0.98",
+      "imgurl": "https://i5.walmartimages.com/asr/cdd76f9f-6369-4c64-89f5-2c967893b8b3_1.7041557f94d0c4e5149ab83fa91f7d90.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 23,
+      "name": "Crunch Pak Family Sized 24oz Bag of Sweet Sliced Apples",
+      "price": "$5.97",
+      "imgurl": "https://i5.walmartimages.com/asr/7f927f75-b1f4-4057-be82-5f8601bf8904.b391855fbb0c6b358535d39c09e20f3f.png?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 24,
+      "name": "Crunch Pak Family Sized 24oz Bag of Tart Sliced Apples",
+      "price": "$5.97",
+      "imgurl": "https://i5.walmartimages.com/asr/f16048ee-58a5-423a-bb28-c5ef9d32c798.47d0c8e978d8832f9e6398d98f217a25.png?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 25,
+      "name": "Crunch Pak Family Sized 24oz Bag of Sweet & Tart Sliced Apples",
+      "price": "$5.97",
+      "imgurl": "https://i5.walmartimages.com/asr/b833384c-4d74-462a-be09-c793133aba7e.efe3716ed122028e988babae0a21742b.png?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 26,
+      "name": "Rockit, Crisp Sweet Miniature Apples, 3lb Tub",
+      "price": "$7.58",
+      "imgurl": "https://i5.walmartimages.com/asr/de6d6d44-507a-43e4-9bd9-d86286473870.4d6dbcb5c200885859982510d4314077.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 27,
+      "name": "Taylor Farms Snack Pack Apples & Peanut Butter 3.8oz",
+      "price": "$2.78",
+      "imgurl": "https://i5.walmartimages.com/asr/b16ad03e-4071-449e-856b-fd4e0f4d65bc.b7e40c81e5645e5a4fc4a79407f0816c.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 28,
+      "name": "Crunch Pak Snack with Apples, Cheese, and Grapes",
+      "price": "$2.97",
+      "imgurl": "https://i5.walmartimages.com/asr/59fab2b9-e20e-418a-be5c-67b19681787f.dcd07759108c169ca550b90a3b23d58f.png?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 29,
+      "name": "SugarBee Apple, Bulk",
+      "price": "$1.14",
+      "imgurl": "https://i5.walmartimages.com/asr/0fabf6bb-bbfc-4cf6-bda1-5faffb98e98b.ca073c0767dd716961a4aebed5259d93.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 30,
+      "name": "Freshness Guaranteed Peeled Apple Slices, 32 Oz",
+      "price": "$5.74",
+      "imgurl": "https://i5.walmartimages.com/asr/1788b347-b483-4827-828d-e5ba12d058e4_1.37c5f8463a76c233f0dd5996d756531a.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 31,
+      "name": "Marketside Peeled Sliced Apples, 12.5 oz, 5 Count",
+      "price": "$4.48",
+      "imgurl": "https://i5.walmartimages.com/asr/5625c45b-07d3-4fe2-af27-ddb86f6b7255_1.6ae9b5103278643e75b819b782a24ff5.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 32,
+      "name": "Crunch Pak Family Sized Sweet Apple Slice Bag 32oz",
+      "price": "$4.98",
+      "imgurl": "https://i5.walmartimages.com/asr/41adf758-ce8b-4ef8-a09c-a0266784fab7.61c0c99173402b2eaf7706a96b4c9a99.png?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "store": "Walmart"
+    },
+    {
+      "id": 0,
+      "name": "Honeycrisp Apple",
+      "price": "$2.00",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020020?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 1,
+      "name": "Fuji Large Apple",
+      "price": "$0.63",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020066?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 2,
+      "name": "Gala Large Apple",
+      "price": "$1.25",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020149?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 3,
+      "name": "Signature Farms Apples Honeycrisp Prepacked Bag - 2 Lb",
+      "price": "$4.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960525704?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 4,
+      "name": "Pink Lady Apple",
+      "price": "$1.25",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020011?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 5,
+      "name": "Signature Farms Fuji Apples Prepacked Bag - 3 Lb",
+      "price": "$3.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960036011?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 6,
+      "name": "Organic Honeycrisp Apple",
+      "price": "$2.00",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184700411?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 7,
+      "name": "Granny Smith Large Apple",
+      "price": "$1.25",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020063?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 8,
+      "name": "Apples Cosmic Crisp",
+      "price": "$1.50",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960541354?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 9,
+      "name": "O Organics Organic Gala Apples - 2 Lb",
+      "price": "$3.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960317042?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 10,
+      "name": "Red Delicious Large Apple",
+      "price": "$1.00",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020045?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 11,
+      "name": "O Organics Apples Fuji - 2 Lb",
+      "price": "$3.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960317044?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 12,
+      "name": "Organic Fuji Apple",
+      "price": "$1.50",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184700039?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 13,
+      "name": "Gala Apples Prepacked Bag - 3 Lb",
+      "price": "$3.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020192?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 14,
+      "name": "Apples Sugar Bee",
+      "price": "$1.50",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960316104?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 15,
+      "name": "Envy Apple",
+      "price": "$1.50",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960080685?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 16,
+      "name": "Golden Delicious Large Apple",
+      "price": "$1.00",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020051?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 17,
+      "name": "Signature Farms Granny Smith Apples Prepacked Bag - 3 Lb",
+      "price": "$3.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960036012?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 18,
+      "name": "Organic Gala Apple",
+      "price": "$1.50",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184700038?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 19,
+      "name": "O Organics Apples Granny Smith - 2 Lb",
+      "price": "$3.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960317041?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 20,
+      "name": "Honeycrisp Apples Prepacked Bag - 2 Lb",
+      "price": "$4.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960311446?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 21,
+      "name": "Organic Granny Smith Apple",
+      "price": "$1.50",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184700041?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 22,
+      "name": "Jazz Apple",
+      "price": "$1.50",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020158?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 23,
+      "name": "Pazazz Apple",
+      "price": "$1.00",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960283110?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 24,
+      "name": "O Organics Organic Apples Sliced - 5.2 Oz",
+      "price": "$3.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960034755?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 25,
+      "name": "Braeburn Apple",
+      "price": "$1.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020050?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 26,
+      "name": "Fresh Cut Apples Sliced - 16 Oz",
+      "price": "$4.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960122623?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 27,
+      "name": "Signature Farms Apples Slices - 14 Oz",
+      "price": "$2.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960296656?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 28,
+      "name": "Envy Apples Prepackaged - 2 Lbs.",
+      "price": "$3.99",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/960512899?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": 29,
+      "name": "Lady Apple",
+      "price": "$0.80",
+      "imgurl": "https://images.albertsons-media.com/is/image/ABS/184020136?$ecom-product-card-desktop-jpg$&defaultImage=Not_Available",
+      "store": "Safeway"
+    },
+    {
+      "id": "0",
+      "name": "Test",
+      "price": "$100",
+      "imgurl": "",
+      "store": "Winco"
+    }
+  ]
